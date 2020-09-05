@@ -22,6 +22,5 @@ analyzer: 0.38.2
 
 
 
-<h2 style="color: #5e9ca0;">The back end is build using nodejs with mongodb</h2>
-
 <h1 style="color: #5e9ca0;">Link for back end repo</h1>
+https://github.com/GhezaeGoitom/FoodItems.git
